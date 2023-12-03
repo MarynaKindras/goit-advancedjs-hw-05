@@ -6,6 +6,10 @@
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarynaKindras/goit-advancedjs-hw-05.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
